@@ -1,0 +1,15 @@
+ion-list{
+    transform:translateY(50%);
+    div.logo{
+        margin-bottom:10vh;
+        ion-text{
+            font-size:1.8rem;
+        }
+    }
+    ion-input{
+        font-size:1rem;
+        ion-icon{
+            font-size: 1.2rem;
+        }
+    }
+}

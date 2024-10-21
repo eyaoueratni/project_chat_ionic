@@ -1,0 +1,27 @@
+ion-list{
+    transform:translateY(50%);
+    div.logo{
+        margin-bottom:10vh;
+        ion-text{
+            font-size:1.8rem;
+        }
+    }
+    ion-input{
+        font-size:1rem;
+        ion-icon{
+            font-size: 1.2rem;
+        }
+    }
+}
+
+div.signup{
+    ion-text{
+        font: size 0.8rem;
+        vertical-align:-webkit-baseline-middle;
+    }
+    vertical-align:-webkit-baseline-middle;
+    ion-button{
+        --padding-start:0;
+        text-transform: none;
+    }
+}
